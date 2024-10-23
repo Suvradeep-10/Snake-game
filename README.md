@@ -1,0 +1,1 @@
+This repository contains a classic Snake game implemented in Java. The game is a simple, fun, and interactive console/GUI-based application where the player controls a snake to collect food and grow in size. The objective is to navigate the snake while avoiding collisions with the walls and the snake's own body.
